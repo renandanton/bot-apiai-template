@@ -1,0 +1,5 @@
+node_modules
+ecosystem.config.js
+config/adapters/*.js
+npm-debug.log.*
+dist
